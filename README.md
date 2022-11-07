@@ -1,4 +1,6 @@
 # air-quest
+**IF YOU SEE THIS TEXT THIS APP IS IN ACTIVE DEVELOPMENT AND NOT RELEASED YET**
+
 Oculus application that allows direct video streaming to your smart TV. Supports Andorid Miracast and Apple AirPlay (tbd). \
 This application is fully open-source and you are free to simply download .apk in releases section or build it from source code by yourself. However, if you are willing to support the project and thank me, please, consider purchasing it from Meta store. \
 Latest release (0.2022.11.1):
